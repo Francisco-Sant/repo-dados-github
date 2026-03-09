@@ -12,7 +12,7 @@ on:
             numero_card:
                 type: number
                 required: true
-                description: "numero do card da terafa desse commit"
+                description: "numero do card da tarefa desse commit"
             fazer_deploy:
                 type: boolean
                 required: true
